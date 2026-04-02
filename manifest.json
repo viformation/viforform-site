@@ -1,0 +1,25 @@
+{
+  "name": "VI Formation - Formation Intelligence Artificielle",
+  "short_name": "VI Formation",
+  "description": "Formation en intelligence artificielle pratique et accessible. Apprenez à utiliser ChatGPT et les LLM avec Virginie Jean. Belgique.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A1F3F",
+  "theme_color": "#0A1F3F",
+  "orientation": "portrait-primary",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "icon-192.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
